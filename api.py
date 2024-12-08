@@ -30,7 +30,7 @@ def predict(input_data: PredictionInput):
     #make prediction
     prediction = model.predict(data)
 
-    # return the prediction
+    # return these prediction
     return {
         "prediction": preciction[0]
     }
