@@ -22,4 +22,4 @@ This project provides and API and a Streamlit application for predicting power o
 - Ambient Pressure (AP)
 - Relative Humidity (RH)
 
-The API is deployed using FastAPI, and a Streamlit app provides an interactive interface for users to input values and get predictions.
+The API is deployed using FastAPI, and a Streamlit app provides an interactive interface for users to input values and get needed predictions.
