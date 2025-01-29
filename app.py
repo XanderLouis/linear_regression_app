@@ -5,7 +5,8 @@ import joblib
 import numpy as np
 
 # Load modell
-model = joblib.load(r'C:\Users\Louisalex\Desktop\Projects\Development\linear_regression_model\model\model.pkl')
+model = joblib.load('model/model.pkl')
+
 
 # app title and descriptuion
 st.title("Power Output Prediction")
