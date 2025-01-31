@@ -25,7 +25,7 @@ This project provides an API and a Streamlit application for predicting power ou
 The API is deployed using **FastAPI**, and a **Streamlit app** provides an interactive interface for users to input values and receive predictions.
 
 ## Requirements
-To set up and run this project, you'll need the following Python packages:
+To set up and run this project properly, you'll need the following Python packages:
 
 - `fastapi`
 - `uvicorn`
